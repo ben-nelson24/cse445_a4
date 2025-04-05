@@ -7,7 +7,7 @@
 		<Name>Westin</Name>
 		<Phone>480-968-8885</Phone>
 		<Phone>800-937-8461</Phone>
-		<Address NearestAirport ="Sky Harbor">
+		<Address NearstAirport ="Sky Harbor">
 			<Number>11</Number>
 			<Street>E. 7th St</Street>
 			<City>Tempe</City>
@@ -20,7 +20,7 @@
 	<Hotel>
 		<Name>Hilton Garden Inn</Name>
 		<Phone>480-968-2180</Phone>
-		<Address NearestAirport ="Sky Harbor">
+		<Address NearstAirport ="Sky Harbor">
 			<Number>86</Number>
 			<Street>S Rocford Dr</Street>
 			<City>Tempe</City>
@@ -33,7 +33,7 @@
 	<Hotel>
 		<Name>JW Marriott Scottsdale Camelback Inn</Name>
 		<Phone>480-948-1700</Phone>
-		<Address NearestAirport ="Sky Harbor">
+		<Address NearstAirport ="Sky Harbor">
 			<Number>5402</Number>
 			<Street>E Lincoln Dr</Street>
 			<City>Paradise Valley</City>
@@ -46,7 +46,7 @@
 	<Hotel>
 		<Name>AC Hotel by Marriott</Name>
 		<Phone>480-642-6140</Phone>
-		<Address NearestAirport ="Sky Harbor">
+		<Address NearstAirport ="Sky Harbor">
 			<Number>100</Number>
 			<Street>East Rio Salado Parkway</Street>
 			<City>Tempe</City>
@@ -59,7 +59,7 @@
 	<Hotel>
 		<Name>WoodSpring Suites</Name>
 		<Phone>720-307-8870</Phone>
-		<Address NearestAirport ="Denver International Airport">
+		<Address NearstAirport ="Denver International Airport">
 			<Number>4902</Number>
 			<Street>E 63rd Avenue</Street>
 			<City>Commerce City</City>
@@ -72,7 +72,7 @@
 	<Hotel>
 		<Name>The Westin</Name>
 		<Phone>303-317-1800</Phone>
-		<Address NearestAirport ="Denver International Airport">
+		<Address NearstAirport ="Denver International Airport">
 			<Number>8300</Number>
 			<Street>Pena Boulevard</Street>
 			<City>Denver</City>
@@ -85,7 +85,7 @@
 	<Hotel>
 		<Name>Hyatt House</Name>
 		<Phone>303-628-7777</Phone>
-		<Address NearestAirport ="Denver International Airport">
+		<Address NearstAirport ="Denver International Airport">
 			<Number>18741</Number>
 			<Street>E 71st Ave</Street>
 			<City>Denver</City>
@@ -98,7 +98,7 @@
 	<Hotel>
 		<Name>Marriott</Name>
 		<Phone>718-848-2552</Phone>
-		<Address NearestAirport ="JFK International Airport">
+		<Address NearstAirport ="JFK International Airport">
 			<Number>135</Number>
 			<Street>142nd Street</Street>
 			<City>Jamaica</City>
@@ -111,7 +111,7 @@
 	<Hotel>
 		<Name>Hyatt Place</Name>
 		<Phone>718-888-1234</Phone>
-		<Address NearestAirport ="LaGuardia Airport">
+		<Address NearstAirport ="LaGuardia Airport">
 			<Number>13342</Number>
 			<Street>39th Ave</Street>
 			<City>Flushing</City>
@@ -124,7 +124,7 @@
 	<Hotel>
 		<Name>Comfort Inn &amp; Suites</Name>
 		<Phone>347-448-3197</Phone>
-		<Address NearestAirport ="LaGuardia Airport">
+		<Address NearstAirport ="LaGuardia Airport">
 			<Number>6030</Number>
 			<Street>Maurice Ave</Street>
 			<City>Maspeth</City>
@@ -137,7 +137,7 @@
 	<Hotel>
 		<Name>Four Points by Sheraton</Name>
 		<Phone>480-579-2100</Phone>
-		<Address NearestAirport ="Mesa Gateway Airport">
+		<Address NearstAirport ="Mesa Gateway Airport">
 			<Number>6850</Number>
 			<Street>East Williams Field Road</Street>
 			<City>Mesa</City>
